@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Albra Text TRIAL TRIAL';
+    src: url('AlbraTextTRIAL-Regular.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Semi TRIAL';
+    src: url('AlbraTextTRIAL-Semi.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Semi.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Sm It TRIAL';
+    src: url('AlbraTextTRIAL-SemiItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-SemiItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL TRIAL';
+    src: url('AlbraTextTRIAL-RegularItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Bold TRIAL';
+    src: url('AlbraTextTRIAL-Bold.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Black TRIAL';
+    src: url('AlbraTextTRIAL-Black.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Italic TRIAL';
+    src: url('AlbraTextTRIAL-BoldItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Light TRIAL';
+    src: url('AlbraTextTRIAL-Light.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Light It TRIAL';
+    src: url('AlbraTextTRIAL-LightItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Medium It TRIAL';
+    src: url('AlbraTextTRIAL-MediumItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Black It TRIAL';
+    src: url('AlbraTextTRIAL-BlackItalic.woff2') format('woff2'),
+        url('AlbraTextTRIAL-BlackItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Albra Text TRIAL Medium TRIAL';
+    src: url('AlbraTextTRIAL-Medium.woff2') format('woff2'),
+        url('AlbraTextTRIAL-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+

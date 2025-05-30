@@ -1,0 +1,28 @@
+.btn-pry {
+    padding: 0.75rem 2rem;
+    border: 1px solid #04151F;
+    background-color: transparent;
+    border-radius: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: background-color 0.4s ease;
+}
+
+.icon-btn {
+    padding: 0.625rem;
+    border-radius: 3rem;
+    border: 1px solid #04151F;
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    transition: background-color 0.4s ease;
+}
+
+.btn-pry:hover,
+.icon-btn:hover {
+    background-color: #D2D1A6;
+}

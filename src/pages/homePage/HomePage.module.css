@@ -2,11 +2,11 @@
     background-color: #FBF9E1;
     display: flex;
     overflow: hidden;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .sterlingLogo {
-    height: 1.875rem;
+    height: 2rem;
     width: auto;
 }
 
@@ -50,6 +50,21 @@
     justify-content: start;
     align-items: center;
     gap: 0.5rem;
+}
+
+.tableOfContents {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.contentSection {
+    display: flex;
+    gap: 2.5rem;
+    align-items: start;
+    padding: 1.5rem;
+    border: 1px solid #888854;
+    border-radius: 0.5rem;
 }
 
 .rightSection {

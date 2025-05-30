@@ -1,13 +1,15 @@
-import { useState } from 'react';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/homePage/HomePage';
 
 
 function App() {
 
   return (
-    <>
-      <HomePage />
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />}/>
+      </Routes>
+    </BrowserRouter>
   )
 }
 

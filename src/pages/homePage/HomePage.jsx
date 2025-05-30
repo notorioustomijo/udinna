@@ -53,8 +53,8 @@ export default function HomePage() {
                         </a>
                     </div>
                 </div>
-                <div>
-                    <div>
+                <div className={styles.tableOfContents}>
+                    <div className={styles.contentSection}>
                         <h2 className='body-text fSize-88 fColor-black'>
                             4
                         </h2>
@@ -68,7 +68,7 @@ export default function HomePage() {
                             </p>
                         </div>
                     </div>
-                    <div>
+                    <div className={styles.contentSection}>
                         <h2 className='body-text fSize-88 fColor-black'>
                             3
                         </h2>
@@ -163,7 +163,7 @@ export default function HomePage() {
                             </div>
                         </div>
                     </div>
-                    <div>
+                    <div className={styles.contentSection}>
                         <h2 className='body-text fSize-88 fColor-black'>
                             2
                         </h2>
@@ -176,7 +176,7 @@ export default function HomePage() {
                             </p>
                         </div>
                     </div>
-                    <div>
+                    <div className={styles.contentSection}>
                         <h2 className='body-text fSize-88 fColor-black'>
                             1
                         </h2>
@@ -225,7 +225,7 @@ export default function HomePage() {
                     <h4 className='title fSize-56'>
                         Check our latest projects
                     </h4>
-                    <img src="" alt="" />
+                    {/* <img src="" alt="" /> */}
                 </section>
             </section>
         </section>
